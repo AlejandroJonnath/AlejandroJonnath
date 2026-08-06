@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=800&color=10B981&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=%24+whoami+%E2%86%92+Alejandro+Bedoya;%24+location+%E2%86%92+Quito%2C+Ecuador+%F0%9F%87%AA%F0%9F%87%A8;%24+role+%E2%86%92+Frontend+%2B+Cybersecurity;%24+stack+%E2%86%92+React+%7C+Angular+%7C+Vue+%7C+Supabase;%24+status+%E2%86%92+Available+for+projects+%F0%9F%9F%A2" />
-
 </div>
 
 <br/>
