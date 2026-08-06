@@ -14,7 +14,7 @@
 
 ---
 
-## 🧑‍💻 `> about_me.ts`
+##  `> about_me.ts`
 
 ```ts
 const ale = {
@@ -32,7 +32,7 @@ const ale = {
 
 ## ⚡ `> tech_stack.json`
 
-### 🎨 Frontend
+###  Frontend
 <div>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -45,7 +45,7 @@ const ale = {
 
 </div>
 
-### ⚙️ Backend & DB
+###  Backend & DB
 <div>
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -59,7 +59,7 @@ const ale = {
 
 </div>
 
-### 📱 Mobile & Herramientas
+###  Mobile & Herramientas
 <div>
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -75,7 +75,7 @@ const ale = {
 
 ---
 
-## 🚀 `> projects[]`
+##  `> projects[]`
 
 <table>
 <tr>
@@ -102,7 +102,7 @@ Plataforma web para un artista de **pintura al óleo**. Sistema de roles con pan
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">📱 EncoderGoti</h3>
+<h3 align="center"> EncoderGoti</h3>
 
 <div align="center">
 
@@ -126,7 +126,7 @@ App móvil de **gestión documental con IA**. Convierte, comprime, une y anota P
 
 ---
 
-## 🌐 `> connect()`
+##  `> connect()`
 
 <div align="center">
 
@@ -139,7 +139,7 @@ App móvil de **gestión documental con IA**. Convierte, comprime, une y anota P
 ```
 ╔══════════════════════════════════════════════════════╗
 ║   Abierto a colaboraciones, proyectos freelance      ║
-║   y oportunidades de trabajo. ¡Escríbeme! 🚀         ║
+║   y oportunidades de trabajo. ¡Escríbeme!          ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
